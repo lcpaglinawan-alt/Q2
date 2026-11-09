@@ -9,4 +9,3 @@ class Dog(Animal):
 
 pet1 = Dog("Carlos")
 print(pet1.bark())
-
